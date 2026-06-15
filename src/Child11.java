@@ -8,7 +8,7 @@ public class Child11 extends Parent11{
 	
 	void display2() {
 		System.out.println("Inside child 2 class");
-	}
+
 	
 //	
 	void display3() {
